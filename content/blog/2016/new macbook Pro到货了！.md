@@ -1,9 +1,10 @@
 title=new macbook Pro到货了！
-date=2016/11/19
+date=19/11/2016
 type=post
 tags=blog
 status=published
 ~~~~~~
+19/11/2016
 新的macbook Pro到了。tuch bar还没用习惯。键盘感觉没有之前的好。触摸板变大了，感觉会影响，因为手常很容易碰到光标就跑了。
 优点么，可能要用一用才能体会到吧。但话说回来，烂鞋才需要磨合，好鞋穿上就合脚，适服无比。NMBP没有给我这个感觉。
 
