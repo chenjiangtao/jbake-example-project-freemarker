@@ -1,6 +1,6 @@
 title=关于intellij idea
 date=02/12/2016
-type=page
+type=post
 tags=idea
 status=published
 ~~~~~~

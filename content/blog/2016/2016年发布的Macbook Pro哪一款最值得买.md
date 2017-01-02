@@ -1,6 +1,6 @@
 title=2016年发布的Macbook Pro哪一款最值得买?
 date=31/10/2016
-type=page
+type=post
 tags=mac book pro
 status=published
 ~~~~~~

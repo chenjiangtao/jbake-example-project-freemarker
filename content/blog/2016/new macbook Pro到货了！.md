@@ -1,6 +1,6 @@
 title=new macbook Pro到货了！
 date=19/11/2016
-type=page
+type=post
 tags=blog
 status=mac book Pro
 ~~~~~~

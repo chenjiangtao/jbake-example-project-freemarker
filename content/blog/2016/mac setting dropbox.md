@@ -1,6 +1,6 @@
 title=mac setting dropbox
 date=03/11/2016
-type=page
+type=post
 tags=dropbox
 status=published
 ~~~~~~

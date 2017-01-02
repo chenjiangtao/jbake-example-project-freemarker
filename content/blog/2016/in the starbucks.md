@@ -1,6 +1,6 @@
 title=in the starbucks
 date=06/11/2016
-type=page
+type=post
 tags=starbucks
 status=published
 ~~~~~~

@@ -1,6 +1,6 @@
 title=nginx配置
 date=02/01/2017
-type=page
+type=post
 tags=nginx
 status=published
 ~~~~~~

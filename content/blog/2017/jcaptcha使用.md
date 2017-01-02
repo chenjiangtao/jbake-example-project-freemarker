@@ -1,6 +1,6 @@
 title=jcaptcha使用
 date=02/01/2017
-type=page
+type=post
 tags=jcaptcha
 status=published
 ~~~~~~

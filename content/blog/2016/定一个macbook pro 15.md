@@ -1,6 +1,6 @@
 title=定一个macbook pro 15
 date=02/11/2016
-type=page
+type=post
 tags=mac
 status=published
 ~~~~~~

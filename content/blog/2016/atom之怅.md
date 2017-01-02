@@ -1,6 +1,6 @@
 title=Atom之怅
 date=25/11/2016
-type=page
+type=post
 tags=atom
 status=published
 ~~~~~~
