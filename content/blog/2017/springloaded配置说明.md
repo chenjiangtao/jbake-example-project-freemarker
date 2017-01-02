@@ -7,7 +7,8 @@ status=published
 
 springboot 下的两热部署springloaded，spring-boot-devtools
 
-** 总体来说，使用springloaded更文件，如果修改了配置文件和模板文件重新启动一下就好了，毕竟改类的可能性多些！**
+**总体来说，使用springloaded更方便，如果修改了配置文件和模板文件重新启动一下就好了，毕竟改类的可能性多些!**
+
 
 >重要提示：idea 2016.3不会自动编译修改过的文件，所有完全自动是不可能的，所谓的热部署不是自动部署，还是需要手动的！
 

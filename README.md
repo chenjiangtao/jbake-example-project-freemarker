@@ -31,9 +31,9 @@ nginx
 编译
 jbake -b
 
-运行
+运行，**一定要加上 -b ，不然上传文件时会导致崩溃！**
 
-nohup jbake  -s &
+nohup jbake -b -s & 
 
 查找杀掉进程
 ps aux | grep jbake | grep -v grep
