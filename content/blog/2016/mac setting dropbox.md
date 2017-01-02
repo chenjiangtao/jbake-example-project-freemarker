@@ -1,7 +1,7 @@
 title=mac setting dropbox
 date=03/11/2016
-type=post
-tags=blog
+type=page
+tags=dropbox
 status=published
 ~~~~~~
 * Mac下通过shadowsocks使用Dropbox客户端

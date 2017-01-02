@@ -1,8 +1,8 @@
 title=new macbook Pro到货了！
 date=19/11/2016
-type=post
+type=page
 tags=blog
-status=published
+status=mac book Pro
 ~~~~~~
 19/11/2016
 新的macbook Pro到了。tuch bar还没用习惯。键盘感觉没有之前的好。触摸板变大了，感觉会影响，因为手常很容易碰到光标就跑了。

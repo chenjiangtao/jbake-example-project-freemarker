@@ -1,7 +1,7 @@
 title=in the starbucks
 date=06/11/2016
-type=post
-tags=blog
+type=page
+tags=starbucks
 status=published
 ~~~~~~
 今天上午在星巴克渡过

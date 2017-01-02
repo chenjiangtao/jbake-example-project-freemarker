@@ -27,7 +27,7 @@ nginx
 jbake -b
 
 运行
-nohup jbake -s &
+nohup jbake -b -s &
 
 查找杀掉进程
 ps aux | grep jbake | grep -v grep

@@ -1,6 +1,6 @@
 title=nonsense
 date=27/11/2016
-type=post
+type=page
 tags=blog
 status=published
 ~~~~~~
