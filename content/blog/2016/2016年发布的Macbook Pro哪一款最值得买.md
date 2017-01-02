@@ -57,3 +57,5 @@ status=published
 
 [CPU天梯图2016最新版 (全文)](http://www.pc841.com/article/20160414-64925_all.html)
 i7 6820HQ 已经是笔记本里面性能很好的了
+
+我发在zhihu上的答案 https://www.zhihu.com/question/52054488/answer/129233258
