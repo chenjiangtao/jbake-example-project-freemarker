@@ -33,7 +33,7 @@ jbake -b
 
 运行
 
-nohup jbake -b -s &
+nohup jbake  -s &
 
 查找杀掉进程
 ps aux | grep jbake | grep -v grep
