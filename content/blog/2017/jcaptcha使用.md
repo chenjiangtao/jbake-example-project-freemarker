@@ -5,7 +5,7 @@ tags=jcaptcha
 status=published
 ~~~~~~
 
-jcaptcha是做图片验证码的，主要说下在springboot 里面的使用方法
+jcaptcha是做图片验证码的，主要说下在springboot 里面的使用方法.
 
 pom.xml里面的配置
 ```xml
