@@ -14,5 +14,5 @@
 <script src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/jquery-1.11.1.min.js"></script>
 <script src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/bootstrap.min.js"></script>
 <script src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/prettify.js"></script>
-
+<script src="https://s13.cnzz.com/z_stat.php?id=1270480225&web_id=1270480225" language="JavaScript"></script>
 </body></html>

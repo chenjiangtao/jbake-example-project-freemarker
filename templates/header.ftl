@@ -8,6 +8,8 @@
     <meta name="author" content="">
     <meta name="keywords" content="">
     <meta name="generator" content="JBake">
+    <!--baidu ads-->
+    <#--<meta name="baidu_union_verify" content="ec5c9b3106791b4b067a36655648b980">-->
 
     <!-- Le styles -->
     <link href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/bootstrap.min.css" rel="stylesheet">
