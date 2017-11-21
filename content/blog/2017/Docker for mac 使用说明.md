@@ -71,3 +71,5 @@ Established listening socket on port 8123.
 ![screenshot.png](http://upload-images.jianshu.io/upload_images/4658686-01a54b184cd44f58.png)
 
 现在可以愉快的docker pull 了
+
+

@@ -9,8 +9,15 @@
     <meta name="keywords" content="">
     <meta name="generator" content="JBake">
     <!--baidu ads-->
-    <#--<meta name="baidu_union_verify" content="ec5c9b3106791b4b067a36655648b980">-->
-
+    <meta name="baidu_ssp_verify" content="65a7a65eda935be8e8100f83e4723c75">
+    <!--google ads-->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+          (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-8656633588333522",
+              enable_page_level_ads: true
+          });
+    </script>
     <!-- Le styles -->
     <link href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/bootstrap.min.css" rel="stylesheet">
     <link href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/asciidoctor.css" rel="stylesheet">

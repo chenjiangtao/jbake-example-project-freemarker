@@ -60,3 +60,4 @@ springboot 下的两热部署springloaded，spring-boot-devtools
 ```
 >springloaded 的优势是修改class类不用重新启动，非常快速。
 > 不好的地方是无法加载配置文件和ftl等模板文件
+
