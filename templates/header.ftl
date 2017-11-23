@@ -8,8 +8,7 @@
     <meta name="author" content="">
     <meta name="keywords" content="">
     <meta name="generator" content="JBake">
-    <!--baidu ads-->
-    <meta name="baidu_ssp_verify" content="65a7a65eda935be8e8100f83e4723c75">
+
     <!--google ads-->
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
